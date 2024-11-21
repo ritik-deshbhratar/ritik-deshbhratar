@@ -1,3 +1,5 @@
+![logo](https://github.com/ritik-deshbhratar/ritik-deshbhratar/blob/main/BannerGIT.jpg)
+
 <h1 align="center">Hi 👋, I'm Ritik Deshbhratar</h1>
 <h3 align="center">I' m a Softwre Devloper As a seasoned web designer with over 1 year of experience, India</h3>
 
